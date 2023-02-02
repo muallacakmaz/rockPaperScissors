@@ -53,7 +53,7 @@
 		367BE6D6298BA00D00C91A1D /* rockPaperScissorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rockPaperScissorsUITests.swift; sourceTree = "<group>"; };
 		367BE6D8298BA00D00C91A1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		367BE6E4298BA05000C91A1D /* gifLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gifLoader.swift; sourceTree = "<group>"; };
-		367BE6E6298BA0B400C91A1D /* firstGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = firstGif.gif; path = ../../../Desktop/resim/firstGif.gif; sourceTree = "<group>"; };
+		367BE6E6298BA0B400C91A1D /* firstGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = firstGif.gif; path = ../firstGif.gif; sourceTree = "<group>"; };
 		367BE6EA298BAADE00C91A1D /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
